@@ -16,5 +16,8 @@
     "url": "https://github.com/execto/hexlet-js/issues"
   },
   "homepage": "https://github.com/execto/hexlet-js#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
